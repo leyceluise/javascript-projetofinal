@@ -16,7 +16,7 @@ function calcularMedia() {
     const nota2 = parseFloat(document.getElementById("nota2").value);
     const nota3 = parseFloat(document.getElementById("nota3").value);
     const nota4 = parseFloat(document.getElementById("nota4").value);
-  
+
     let mensagem = "";
     // evite mexer no código acima!
 

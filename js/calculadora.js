@@ -38,7 +38,6 @@ function multiplicar() {
     /* use as constantes numero 1 e numero 2 e realize a multiplicação entre elas.
         Em seguida, ao invés de mostrar o numero 5, mostre o resultado da operação */
 
-
     document.getElementById("resultadoMult").innerHTML = resultado;
 }
 
